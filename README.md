@@ -1,7 +1,7 @@
 # Tana Java Test Solutions
 
 **Language:** Java 17
-All solutions are written in Java using simple and readable logic, covering core algorithmic and dynamic programming techniques.
+All solutions are written in Java using simple and readable logic, covering programming techniques as per my understanding. Opted to uses heuristic decession making techniques off of things I find interesting. Fingers Crossed.
 
 ---
 
